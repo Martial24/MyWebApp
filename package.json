@@ -1,0 +1,11 @@
+{
+  "name": "azure-sample-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for Azure App Service.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Votre Nom",
+  "license": "ISC"
+}
